@@ -1,0 +1,7 @@
+E:\workspace\Github\wcf-sample\wcfRestTest\wcfRestTest\bin\wcfRestTest.dll.config
+E:\workspace\Github\wcf-sample\wcfRestTest\wcfRestTest\bin\wcfRestTest.dll
+E:\workspace\Github\wcf-sample\wcfRestTest\wcfRestTest\bin\wcfRestTest.pdb
+E:\workspace\Github\wcf-sample\wcfRestTest\wcfRestTest\obj\Debug\wcfRestTest.csproj.AssemblyReference.cache
+E:\workspace\Github\wcf-sample\wcfRestTest\wcfRestTest\obj\Debug\wcfRestTest.csproj.CoreCompileInputs.cache
+E:\workspace\Github\wcf-sample\wcfRestTest\wcfRestTest\obj\Debug\wcfRestTest.dll
+E:\workspace\Github\wcf-sample\wcfRestTest\wcfRestTest\obj\Debug\wcfRestTest.pdb
